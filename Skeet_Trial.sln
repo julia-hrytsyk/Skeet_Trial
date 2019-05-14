@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeet_ex_1", "Skeet_ex_1\Skeet_ex_1.csproj", "{7D456CD9-D251-4B1B-9218-FD14CAC59195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Value-ref_type", "Delegate_Value-ref_type\Delegate_Value-ref_type.csproj", "{53ACB380-C562-4F61-912C-7C13B8F39001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7D456CD9-D251-4B1B-9218-FD14CAC59195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D456CD9-D251-4B1B-9218-FD14CAC59195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D456CD9-D251-4B1B-9218-FD14CAC59195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53ACB380-C562-4F61-912C-7C13B8F39001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ACB380-C562-4F61-912C-7C13B8F39001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53ACB380-C562-4F61-912C-7C13B8F39001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53ACB380-C562-4F61-912C-7C13B8F39001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
