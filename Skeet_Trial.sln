@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeet_ex_1", "Skeet_ex_1\Skeet_ex_1.csproj", "{7D456CD9-D251-4B1B-9218-FD14CAC59195}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_1_CSharpVersions_Collections", "Skeet_ex_1\P_1_CSharpVersions_Collections.csproj", "{7D456CD9-D251-4B1B-9218-FD14CAC59195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate_Value-ref_type", "Delegate_Value-ref_type\Delegate_Value-ref_type.csproj", "{53ACB380-C562-4F61-912C-7C13B8F39001}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_2_Delegate_Value-ref_type", "Delegate_Value-ref_type\P_2_Delegate_Value-ref_type.csproj", "{53ACB380-C562-4F61-912C-7C13B8F39001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
